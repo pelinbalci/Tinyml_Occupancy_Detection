@@ -1,7 +1,7 @@
 # Tiny ML Occupancy Detection
 
 The aim of this study is explain the different types of quantization methods of TensorFlow Lite and make a comparison 
-with Neuton.AI platform. I would like to thank Neuton.AI for their help during the project. 
+with Neuton.AI platform. I would like to thank [Neuton.AI](https://neuton.ai/) for their help during the project. 
 
 **The source of data is here:** [occupancy_detection_dataset](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#)
 
